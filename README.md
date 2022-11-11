@@ -4,13 +4,13 @@ NLW #10 Projeto Copa - Plataforma de bolão descentralizado virtual da RocketSea
 
 Setup do back-end
 
-[] - Fastify (micro framework para roteamento)
-[] - Prisma (comunicação com o Banco de Dados)
-[] - Banco de Dados (SQLite)
-[] - Diagrama ERD (entidade-relacioanamento)
+- [ ] - Fastify (micro framework para roteamento)
+- [ ] - Prisma (comunicação com o Banco de Dados)
+- [ ] - Banco de Dados (SQLite)
+- [ ] - Diagrama ERD (entidade-relacioanamento)
 
 Setup do Front
 
-[] - React
-[] - Next.js
+- [ ] - React
+- [ ] - Next.js
 
